@@ -1,0 +1,14 @@
+{
+    "name": "Telegram Tipping Bot",
+    "cover_image": "/images/projects/tippingbot.png",
+    "description": "A chatbot, powered by the DecentralChain blockchain that enables sending tips of any asset on the blockchain to Telegram users by simply tagging their username without any prior configuration. The bot automatically creates a Decentral.Exchange wallet for each user and provides several useful commands to help manage it.",
+    "languages": [
+        "Django",
+        "Python",
+        "HTML",
+        "CSS",
+        "MySQL"
+    ],
+    "github_link": "https://github.com/Decentral-America/dcctipsbot",
+    "live_link": "https://t.me/DCCTipsBot"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "DecentralChain Documentation",
+    "cover_image": "/images/projects/dccdocs.png",
+    "description": "A begginer to advanced official documentation for the DecentralChain blockchain. Covering from the most basic concepts of blockchain technology along with brief history of how it was put together to programming solutions for solving complex real live problems using a blockchain.",
+    "languages": [
+        "Python",
+        "HTML",
+        "CSS",
+        "Sphinx",
+        "LaTeX",
+        "YAML"
+    ],
+    "github_link": "https://github.com/Decentral-America/docs",
+    "live_link": "http://docs.decentralchain.io/"
+}

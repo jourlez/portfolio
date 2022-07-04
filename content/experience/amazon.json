@@ -1,0 +1,16 @@
+{
+    "company": "Amazon",
+    "company_website": "https://amazon.com/",
+    "role": "Customer Service Associate",
+    "contract": {
+        "type": "Full time",
+        "live": true
+    },
+    "duration": "September 2020 - December 2021",
+    "description": "Technology Stack: Microsoft Office.",
+    "tasks": [
+        "Communicate with customers worldwide having a problem-solving attitude in order to understand their issues and make best use of the available resources to resolve them.",
+        "Escalate systemic issues for teams of 15-20 associates to the relevant owners and teams and follow through on the resolutions to ensure they are delivered.",
+        "Evaluate the current needs and practices for different teams, to develop and deliver refresher sessions focused on providing peers with the knowledge required for them to improve their performance."
+    ]
+}

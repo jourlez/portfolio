@@ -1,0 +1,19 @@
+{
+    "name": "Ride Language Tutorial",
+    "cover_image": "/images/projects/ride.png",
+    "description": "A Ride language tutorial showing examples on how to build, deploy and test smart contracts for accounts and assets as well as decentralized applications(dApps) with detailed explanations.",
+    "languages": [
+        "Ride",
+        "Python",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Node.js",
+        "Sphinx",
+        "LaTeX",
+        "Ansible",
+        "YAML"
+    ],
+    "github_link": "https://github.com/Decentral-America/ride",
+    "live_link": "http://ride.decentralchain.io/"
+}

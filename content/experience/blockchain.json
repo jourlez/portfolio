@@ -1,0 +1,17 @@
+{
+    "company": "Blockchain Costa Rica",
+    "company_website": "https://blockchaincostarica.org/",
+    "role": "Technical Administrative Assistant",
+    "contract": {
+        "type": "Full time",
+        "live": true
+    },
+    "duration": "August 2022 - Present",
+    "description": "Technology Stack: Python, Django, Telegram Bot API, Ride, Docker, Ansible, Node.js, MySQL, Sphinx, LaTeX, Jira, Jinja, YAML.",
+    "tasks": [
+        "Research, design, implementation, documentation, and maintenance of new and existing software.",
+        "Provide technical assistance to managers, other employees, and office visitors by handling a variety of tasks in order to ensure that all interactions between the organization and others are positive and productive.",
+        "Elaborate training and development programs to expand the capabilities of the personnel and increase the quality of the produced software solutions.",
+        "Implement organizational development processes to optimize communication between external vendors, product development, product support, product management and corporate sales."
+    ]
+}

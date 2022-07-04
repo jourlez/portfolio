@@ -1,0 +1,76 @@
+{
+    "skills": [
+        {
+            "name": "Python",
+            "icon": "python.svg"
+        },
+        {
+            "name": "Java",
+            "icon": "java.svg"
+        },
+        {
+            "name": "C++",
+            "icon": "cplusplus.svg"
+        },
+        {
+            "name": "Blockchain",
+            "icon": "blockchain.svg"
+        },
+        {
+            "name": "Ride",
+            "icon": "ride.svg"
+        },
+        {
+            "name": "HTML",
+            "icon": "html.svg"
+        },
+        {
+            "name": "CSS",
+            "icon": "css.svg"
+        },
+        {
+            "name": "SASS",
+            "icon": "sass.svg"
+        },
+        {
+            "name": "Javascript",
+            "icon": "javascript.svg"
+        },
+        {
+            "name": "Git",
+            "icon": "git.svg"
+        },
+        {
+            "name": "MySQL",
+            "icon": "mysql.svg"
+        },
+        {
+            "name": "Jira",
+            "icon": "jira.svg"
+        },
+        {
+            "name": "Sphinx",
+            "icon": "sphinx.svg"
+        },
+        {
+            "name": "LaTeX",
+            "icon": "latex.svg"
+        },
+        {
+            "name": "Ansible",
+            "icon": "ansible.svg"
+        },
+        {
+            "name": "Telegram Bot API",
+            "icon": "telegram.svg"
+        },
+        {
+            "name": "YAML",
+            "icon": "yaml.svg"
+        },
+        {
+            "name": "Microsoft Office",
+            "icon": "office.svg"
+        }
+    ]
+}

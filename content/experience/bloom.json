@@ -1,0 +1,15 @@
+{
+    "company": "Bloom Learn & Teach",
+    "role": "Tutor",
+    "contract": {
+        "type": "Part time",
+        "live": true
+    },
+    "duration": "May 2018 - Present",
+    "description": "Technology Stack: Java, Python, C, C++, SQL, Git, LaTeX.",
+    "tasks": [
+        "Review pertinent information, elaborate a strategy depending on the needs each group of 2-5 tutees shows and create educational materials to further demonstrate the subject matter to be covered in tutoring sessions.",
+        "Recognize the relationship between social-emotional learning and academic performance to contribute in the well-being, health, and safety, physically, socially, and emotionally of the tutee.",
+        "Design and facilitate differentiated and personalized learning goals and activities that follow a coherent sequence, are aligned to instructional goals, and engage tutees during high level cognitive activity."
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "company": "Symbiotic",
+    "company_website": "https://symbiotic.com/",
+    "role": "Full Stack Developer",
+    "contract": {
+        "type": "Full time",
+        "live": false
+    },
+    "duration": "December 2017 - February 2018",
+    "description": "Technology Stack: AngularJS, Node.js, Express.js, MySQL.",
+    "tasks": [
+        "Liaise efficiently in both technical and non-technical language to comprehend the requirements of the customers and stakeholders and drive consensus between multiple teams to deliver software according to the business requirements while avoiding technical debt.",
+        "Research, design, implementation, documentation, and maintenance of new and existing software."
+    ]
+}
